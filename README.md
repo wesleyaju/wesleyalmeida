@@ -95,11 +95,7 @@
   </a>
 </div>
   
-
- <div align="center"> 
- ![Snake animation](https://github.com/wesleyaju/wesleyaju/blob/output/github-contribution-grid-snake.svg)
- </div>
-
+![Snake animation](https://github.com/wesleyaju/wesleyaju/blob/output/github-contribution-grid-snake.svg)
 
 <h4 align="center">Visitas a partir de Jan/2023</h4>
 
