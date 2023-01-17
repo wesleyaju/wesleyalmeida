@@ -88,15 +88,18 @@
 <h2 align="left">Estatísticas</h2>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=wesleyaju" height="150" alt="stats graph"  />
-  <img src="github-readme-stats-two-wheat-18.vercel.appgithub-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&username=wesleyaju" height="300" alt="languages graph"  />
+  <a href="https://github.com/wesleyaju">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wesleyaju&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyaju&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
+  
 
+ <div align="center"> 
  ![Snake animation](https://github.com/wesleyaju/wesleyaju/blob/output/github-contribution-grid-snake.svg)
- 
-###
+ </div>
+
 
 <h4 align="center">Visitas a partir de Jan/2023</h4>
 
