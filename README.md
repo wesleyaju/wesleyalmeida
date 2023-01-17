@@ -16,24 +16,35 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+   <a href="https://www.java.com/pt-BR//" target="_blank"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+     </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="40" width="40" alt="junit logo"  />
-  <img src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" height="40" width="40" alt="testng logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="70" alt="node logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original-wordmark.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/adonisjs/adonisjs-original-wordmark.svg" height="60" width="62" alt="adonis logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" height="50" width="52" alt="php logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" height="40" width="40" alt="anaconda logo"  />
   <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="40" width="40" alt="cypress logo"  />
   <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="40" width="45" alt="cucumber logo"  />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
+  <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" height="50" width="52" alt="azure logo"  />
+  <img src="https://www.nitdit.com/wp-content/webp-express/webp-images/uploads/2020/11/ClickUp-Logo-NitDit.png.webp" height="50" width="52" alt="azure logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" height="30" width="40" alt="slack logo"  />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="52" alt="postman logo"  />
-  <img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original-wordmark.svg" height="60" width="62" alt="android logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" width="30" alt="jenkins logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" width="40" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" height="40" width="40" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original-wordmark.svg" height="40" width="40" alt="github logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="40" width="40" alt="bash logo" 
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg" height="40" width="40" alt="markdown logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" height="40" width="40" alt="figma logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  
   
 </div>
 
@@ -45,9 +56,9 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" height="40" width="52" alt="firebase logo"  />
 </div>
 
 ###
