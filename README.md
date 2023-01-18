@@ -1,4 +1,4 @@
-<h1 align="left"> Wesley 👩🏾‍💻 - Analista de Automação de testes e QA Engineer</h1>
+<h1 align="left"> Wesley 👨🏾‍💻 - Analista de Automação de testes e QA Engineer</h1>
 <img align="right" width="250" src="https://miro.medium.com/max/540/1*ng1IK0_zOVux2Wg6BL68Zg.png"</img>
 
 ###
@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🌎 Aracaju - Sergipe<br> 👨🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIT-SE<br>👨🏽‍🎓 Pós-graduado em Perícia Forense Computacional - Cruzeiro do Sul - SP<br> 👩🏾‍💻 Apaixonado pelo processo de desenvolvimento de software e automação de testes<br>🐞 Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curioso...<br>🤝 Disposto a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
+<p align="left">🌎 Aracaju - Sergipe<br> 👨🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - UNIT-SE<br>👨🏽‍🎓 Pós-graduado em Perícia Forense Computacional - Cruzeiro do Sul - SP<br> 👨🏾‍💻 Apaixonado pelo processo de desenvolvimento de software e automação de testes<br>🐞 Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!!<br>🌱 Sempre em busca de conhecimento<br>🕵️‍♀️ Curioso...<br>🤝 Disposto a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
 
 ###
 
