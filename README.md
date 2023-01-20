@@ -164,3 +164,8 @@
   <img src="https://profile-counter.glitch.me/wesleyaju/count.svg?"  />
 </div>
 
+👋 Hi, I'am Kevin Almeida
+
+👀 I’m interested in web development and software testing...
+
+🌱 I’m currently learning web development: nuxtJS, adonisJS | software testing: manual and automated tests, cypress.io
