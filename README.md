@@ -55,6 +55,8 @@
    <a href="https://robotframework.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
    </a>
+   <a href="https://k6.io/docs/get-started/installation/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/K6-load-testing-tool-logo.svg/2105px-K6-load-testing-tool-logo.svg.png" height="40" width="40" alt="K6 logo/>
+   </a>
    <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
       <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" height="50" width="52" alt="azure logo"  />
    </a>
